@@ -1,0 +1,17 @@
+Konstruktor to specjalna metoda w klasie, która jest wywoływana automatycznie
+w momencie tworzenia nowego obiektu tej klasy. Jego głównym zadaniem jest
+inicjalizacja obiektu, czyli przypisanie wartości początkowych do jego atrybutów
+(pól) lub wykonanie innych operacji konfiguracyjnych. Konstruktor pozwala na
+ustawienie stanu początkowego obiektu zaraz po jego stworzeniu.
+Różnica między konstruktorem a metodą:
+Konstruktor:
+    Nazwa: Konstruktor ma zawsze taką samą nazwę jak klasa.
+    Zadanie: Inicjalizuje obiekt; przypisuje wartości do atrybutów, konfiguruje obiekt przed jego użyciem.
+    Brak typu zwrotnego: Konstruktor nie ma typu zwrotnego, nawet void.
+    Automatyczne wywołanie: Jest wywoływany automatycznie w momencie tworzenia obiektu.
+
+Metoda:
+    Nazwa: Metody mogą mieć dowolną nazwę.
+    Zadanie: Wykonuje określoną operację na obiekcie, np. zmienia jego stan, przetwarza dane.
+    Typ zwrotu: Metody mogą mieć różne typy zwrotne, w tym void, jeśli nie zwracają żadnej wartości.
+    Ręczne wywołanie: Metody wywołujemy ręcznie, po utworzeniu obiektu.

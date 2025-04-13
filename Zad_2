@@ -1,0 +1,9 @@
+Atrybuty (czasami nazywane polami) to zmienne, które przechowują dane obiektu.
+    Atrybuty reprezentują stan obiektu i mogą mieć różne typy (np. liczby, teksty,
+    tablice, obiekty innych klas). Są one specyficzne dla danej instancji obiektu, co oznacza,
+    że różne obiekty tej samej klasy mogą mieć różne wartości dla swoich atrybutów.
+
+Metody to funkcje, które są zdefiniowane w obrębie klasy i które wykonują jakieś
+    działanie na obiekcie. Metody mogą operować na atrybutach obiektu i modyfikować
+    jego stan lub wykonywać inne zadania, takie jak obliczenia czy interakcje z innymi obiektami.
+    Metody mogą także przyjmować argumenty i zwracać wyniki.

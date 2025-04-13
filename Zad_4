@@ -1,0 +1,7 @@
+W programowaniu obiektowym różnica między polem (atrybutem) i metodą
+prywatną a publiczną polega na poziomie dostępu. Pola i metody publiczne są
+dostępne z dowolnego miejsca w programie – można się do nich odwoływać zarówno
+z innych klas, jak i z obiektów. Natomiast pola i metody prywatne są widoczne
+tylko wewnątrz tej samej klasy, w której zostały zadeklarowane – służą do ukrycia
+wewnętrznej logiki lub danych obiektu. Dzięki temu chroni się dane przed
+nieautoryzowanym dostępem i modyfikacją.

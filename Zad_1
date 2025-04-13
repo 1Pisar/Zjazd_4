@@ -1,1 +1,14 @@
-
+KLASA:
+    -To definicja lub szablon, według którego tworzone są obiekty
+    -Określa strukturę (jakie dane i jakie metody będzie miał obiekt)
+    -Sama w sobie nie robi nic – nie wykonuje kodu
+    -Nie zajmuje miejsca w pamięci podczas działania programu
+    -Definiuje: pola (atrybuty), metody, konstruktory
+    -Można ją porównać do planu budynku
+OBIEKT:
+    -To konkretna instancja klasy, która istnieje w pamięci
+    -Zawiera konkretne dane i wykonuje metody
+    -Może wykonywać metody, przechowywać dane
+    -Obiekt zajmuje miejsce w pamięci (jest „żywy”)
+    -Posiada: wartości pól i może wywoływać metody
+    -Można to porównać do konkretnego budynku wybudowanego z tego planu

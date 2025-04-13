@@ -1,0 +1,6 @@
+W programowaniu obiektowym zwykłe (instancyjne) metody i atrybuty należą
+do konkretnego obiektu klasy, co oznacza, że każdy obiekt ma własne dane
+i może wykonywać operacje na nich. Statyczne metody i atrybuty należą do całej klasy,
+a nie do pojedynczego obiektu, więc są wspólne dla wszystkich instancji.
+Zwykłe metody mają dostęp do słowa kluczowego this, statyczne – nie.
+Przykładowo, imię pracownika to atrybut zwykły, a liczba wszystkich pracowników – statyczny.
