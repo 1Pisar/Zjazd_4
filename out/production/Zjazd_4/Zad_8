@@ -1,0 +1,5 @@
+Atrybuty pochodne, znane również jako atrybuty wyliczane lub atrybuty obliczane,
+to takie pola, które nie są przechowywane bezpośrednio w obiekcie,
+lecz są wyliczane na podstawie innych danych w obiekcie lub poza nim.
+Innymi słowy, są to wirtualne atrybuty, które mogą być obliczane na podstawie
+innych atrybutów, ale nie muszą być zapisywane w pamięci obiektu.
